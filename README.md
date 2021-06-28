@@ -6,10 +6,10 @@ Simple Recipe App For Assignment Using Table View
 
 ### Working With
 
-UITableView
-UITableViewCell
-UITableViewDelegate
-UITableViewDataSource
+* UITableView
+* UITableViewCell
+* UITableViewDelegate
+* UITableViewDataSource
 
 ## Screenshots
 
